@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0012-integer-to-roman](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0012-integer-to-roman](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +69,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
