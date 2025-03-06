@@ -26,6 +26,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0058-length-of-last-word](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Counting Sort
 |  |
 | ------- |
