@@ -54,6 +54,7 @@
 | [0013-roman-to-integer](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0058-length-of-last-word](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0344-reverse-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Counting Sort
 |  |
