@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
