@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0045-jump-game-ii) |
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0169-majority-element) |
