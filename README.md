@@ -14,6 +14,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -31,6 +32,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
