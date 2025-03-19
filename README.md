@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0045-jump-game-ii) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0042-trapping-rain-water) |
@@ -56,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0274-h-index) |
 ## Counting
