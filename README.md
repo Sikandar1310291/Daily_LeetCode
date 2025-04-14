@@ -27,6 +27,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -56,6 +58,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +69,7 @@
 | [0015-3sum](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0274-h-index) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
