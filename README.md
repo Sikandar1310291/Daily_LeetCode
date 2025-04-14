@@ -22,6 +22,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0605-can-place-flowers) |
@@ -39,6 +40,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0392-is-subsequence) |
