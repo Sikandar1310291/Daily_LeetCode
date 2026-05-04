@@ -83,6 +83,7 @@
 | [0013-roman-to-integer](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0509-fibonacci-number](https://github.com/Sikandar1310291/Daily_LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Sikandar1310291/Daily_LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +169,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sikandar1310291/Daily_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Sikandar1310291/Daily_LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Sikandar1310291/Daily_LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
